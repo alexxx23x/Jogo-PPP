@@ -3,7 +3,7 @@ import random
 import time
 import string
 
-# Funções auxiliares
+
 
 def generate_room_id(length=6):
     """Gera um ID aleatório para a sala."""
